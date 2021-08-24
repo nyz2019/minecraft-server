@@ -1,0 +1,6 @@
+{already_sleeping: "\xA7c\u5DF2\u7ECF\u6709\u4EBA\u5728\u7761\u89C9\u4E86", is_daytime: "\xA7\
+c\u5F53\u524D\u4E3A\u767D\u5929", no_one_sleeping: "\xA7c\u6CA1\u6709\u4EBA\u5728\u7761\
+\u89C9", not_fall_asleep: "\xA7c\u60A8\u8FD8\u6CA1\u6709\u5165\u7761", skip_abort: "\xA7\
+a\u8DF3\u8FC7\u591C\u665A\u5DF2\u53D6\u6D88", skip_wait_time: 10, wait_before_skip: 3,
+waiting_for_skip: "\xA7e{0} \xA7c\u6B63\u5728\u7761\u89C9, \xA7e{1} \xA7c\u79D2\u540E\
+\u5F00\u59CB\u8DF3\u8FC7\u591C\u665A, \u70B9\u51FB\u8FD9\u6761\u6D88\u606F\u53D6\u6D88"}

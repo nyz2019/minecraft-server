@@ -1,0 +1,19 @@
+
+server:
+    # 服务器的主机名与端口
+    host: 127.0.0.1
+    port: 8090
+    # 在面板中设置的客户端id与密码
+    id: 88182f5c12efbe92eb554ebfa7439cb1
+    password: 123456
+
+# 指令权限
+command:
+    permissions:
+        - status: 2
+        - groups: 2
+        - connect: 3
+        - disconnect: 3
+
+# 调试模式
+debug: false

@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "permission": 4,
+    "detection_interval_sec": 10.0,
+    "reload_delay_sec": 1.0,
+    "blacklist": []
+}

@@ -1,0 +1,16 @@
+{
+	"aes_key":"LdXO8slF1Q9rK6Sc",
+	"hostname": "localhost",
+	"port": 25565,
+	"clients":
+	[
+		{
+			"name": "Survival",
+			"password": "nyzsurvival"
+		},
+		{
+			"name": "Creative",
+			"password": "nyzcreative"
+		}
+	]
+}

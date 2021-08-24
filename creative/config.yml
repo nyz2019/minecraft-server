@@ -1,0 +1,43 @@
+# Configure file for MCDReforged
+# Check https://mcdreforged.readthedocs.io/en/latest/configure.html for detail
+
+
+# =========================================
+# |            Basic Configure            |
+# =========================================
+
+
+# The language that MCDR will use to display information
+# Examples: "en_us", "zh_cn"
+language: en_us
+working_directory: server
+start_command: java -Xms1G -Xmx2G -jar fabric-server-launch.jar nogui
+handler: vanilla_handler
+encoding: UTF-8
+decoding:
+plugin_directories:
+- plugins
+
+
+# rcon setting
+# if enable, plugins can use rcon to query command from the server
+rcon:
+  enable: true
+  address: 127.0.0.1
+  port: 25576
+  password: myquicknyz
+check_update: true
+disable_console_thread: false
+disable_console_color: false
+custom_handlers:
+custom_info_reactors:
+debug:
+  all: false
+  mcdr: false
+  handler: false
+  reactor: false
+  plugin: false
+  permission: false
+  command: false
+  task_executor: false
+advanced_console: true

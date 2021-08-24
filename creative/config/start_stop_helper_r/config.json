@@ -1,0 +1,10 @@
+{
+    "permissions": {
+        "help": 3,
+        "start": 3,
+        "stop": 3,
+        "stop_exit": 4,
+        "restart": 3,
+        "exit": 4
+    }
+}

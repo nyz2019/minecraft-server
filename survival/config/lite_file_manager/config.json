@@ -1,0 +1,14 @@
+{
+    "permission_requirement": 2,
+    "max_import_size": 10485760,
+    "file_per_page": 10,
+    "directories": {
+        "structures": {
+            "path": "./server/world/generated/minecraft/structures",
+            "permission": {
+                "read": 2,
+                "write": 3
+            }
+        }
+    }
+}
