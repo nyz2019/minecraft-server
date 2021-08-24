@@ -5,3 +5,5 @@ The backup of Charlie_NI's Minecraft server
 Use `python -m pip install MCDReforged` to install MCDR
 
 **This repository is only used to make backups for Charlie_NI's Minecraft server**
+
+**[Repository Page](https://github.com/nyz2019/minecraft-server)**
